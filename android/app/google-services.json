@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7613964766",
+    "project_id": "pimoviles-eefc0",
+    "storage_bucket": "pimoviles-eefc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7613964766:android:10751f7c3d53ddb69bfd4f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkXijWRo3UbCCbdwR3pqKSZR6MQ-AV900"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
